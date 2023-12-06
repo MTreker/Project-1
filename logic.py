@@ -149,3 +149,4 @@ class Logic(QMainWindow, Ui_Main_Window):
 
         """
         exit()
+
